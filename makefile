@@ -26,5 +26,5 @@ depend:
   clean:
     $(RM) $(OBJS) $(TARGET)
     
-  -include $(DEPS)
+ -include $(DEPS)
    
